@@ -29,7 +29,7 @@ class Car extends Vehicle{
 
 }
 }
-//encapsulating class Car into toyota
+//encapsulating the class Car into toyota
  let toyota = new Car('red','new',2012);
    
 
